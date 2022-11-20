@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="70"
+   height="80"
+   id="svg6181">
+  <defs
+     id="defs6183" />
+  <metadata
+     id="metadata6186">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-972.36218)"
+     id="layer1">
+    <path
+       d="m 34.207323,977.04861 c -0.770845,-0.0148 -1.518379,0.32642 -1.987288,1.15678 c 0,0 -3.508059,8.50923 -11.92373,25.44921 c -8.415662,16.9399 -13.5847948,25.0236 -15.2754258,26.4279 c -0.692568,0.5753 2.491526,2.4916 2.491526,2.4916 c 0,0 2.371116,1.0675 3.1440678,0.8305 c 0.03474,0.019 0.05116,-0.014 0.08894,-0.03 c 0.03464,-0.018 0.06492,-0.033 0.08894,-0.059 c 0.0076,-0.01 0.02145,-0.019 0.02961,-0.03 c 0.0047,-0.01 -0.0038,-0.022 0,-0.03 c 0.02468,-0.033 0.06312,-0.041 0.08894,-0.089 c 0.751339,-1.3987 10.16456,-1.8656 24.796612,-2.1655 c 14.632052,-0.2999 24.915257,1.3941 24.915257,1.3941 c 0.529172,0.2632 2.027931,-0.7469 2.995763,-2.6695 c 0.439666,-0.8734 1.715309,-3.3295 1.067797,-3.8263 c -0.976128,-0.7488 -6.038652,-7.2967 -15.334748,-22.483 C 40.097669,988.2309 36.372577,978.05709 36.372577,978.05709 c -0.600244,-0.62287 -1.394409,-0.99368 -2.165254,-1.00848 z m 0.207627,10.41102 c 1.057983,-0.0444 2.861895,5.26204 10.055086,17.38137 c 4.298684,7.2426 9.933841,16.5875 13.258476,22.3348 c -4.588166,-0.4886 -13.228416,-1.2905 -22.95763,-1.3348 c -9.051698,-0.041 -16.387025,0.5161 -20.733053,0.9195 c 2.069381,-3.7671 5.269876,-9.633 10.025425,-19.072 c 6.5227,-12.94663 9.293704,-20.18445 10.351696,-20.22887 z"
+       id="path4395-1-4-3"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+  </g>
+</svg>
